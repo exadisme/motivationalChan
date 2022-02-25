@@ -8,7 +8,10 @@ Download the script and files, place them in your desired location.
 Add the script executable to your DW/WM Autostart.
 
 
-Extra: 
+#### Configuration: 
+
+The script will detect the location where you place it when it is run. You may alter it to use an icon of your choosing.
+
 
 You may add more quotes to the motivational file. One quote per line for the script to work properly.
 
@@ -25,7 +28,7 @@ You may edit the script to use another icon or to increase or decrease the time 
 
 #### **PROJECT INFORMATION:**
 
-Written in bash. The script will detect the location where you place it when it is run. You may alter it to use an icon of your choosing.
+Written in bash. 
 
 You are free to use or modify this script as you wish. I just whipped it up for fun.
 
