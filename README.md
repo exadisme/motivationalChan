@@ -33,3 +33,5 @@ Written in bash.
 You are free to use or modify this script as you wish. I just whipped it up for fun.
 
 It is possible that I upgrade this script to use multiple different icons in the future.
+
+Icon image was not created by me. Icon downloaded from https://toppng.com/
