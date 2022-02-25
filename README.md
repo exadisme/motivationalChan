@@ -1,7 +1,7 @@
 # motivationalChan
 
 
-##**INSTALLATION INSTRUCTIONS:**
+## **INSTALLATION INSTRUCTIONS:**
 
 Download the script and files, place them in your desired location.
 
@@ -9,14 +9,14 @@ Add the script executable to your DW/WM Autostart.
 
 
 
-##**PREVIEW:**
+## **PREVIEW:**
 
 ![Alt text](https://i.postimg.cc/mgNzHDgJ/motivational-chan.png "Motivational-Chan")
 
 
 
 
-##**PROJECT INFORMATION:**
+## **PROJECT INFORMATION:**
 
 Written in bash. The script will detect the location where you place it when it is run. You may alter it to use an icon of your choosing.
 
