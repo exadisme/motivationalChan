@@ -1,0 +1,19 @@
+#!/bin/bash
+#
+# I use a large icon. Icon size can be defined in your dunst configuration file.
+#
+# Get script, icon and quotes file directory. 
+SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
+
+# Set icon filename to use, You can replace with full path to a different image.
+ICON_NAME=$SCRIPT_DIR/nekoMaidChibi.png
+
+# Define number of quotes and pull a random quote. This allows you to add more quotes to the motivational file. 1 Quote per line.
+while true; do 
+   NUM_OF_QUOTES=$(wc -l < $SCRIPT_DIR/motivational)
+   RANDOM_QUOTE_LINE=$(( $RANDOM % $NUM_OF_QUOTES + 1 ))
+   CURRENT_QUOTE=$(sed -n $RANDOM_QUOTE_LINE"p" $SCRIPT_DIR/motivational)
+# Sends the actual notification. Expire time is in milliseconds. default is 40000 
+   notify-send --expire-time=40000 -i $ICON_NAME "You can do it, Master!"  "$CURRENT_QUOTE"
+   sleep 900s # Change to your predered time between notifications. Default is 900 seconds. 
+done &
