@@ -5,7 +5,7 @@
 
 Download the script and files, place them in your desired location.
 
-Add the script executable to your DW/WM Autostart.
+Add the script executable to your DE/WM Autostart.
 
 
 #### Configuration: 
