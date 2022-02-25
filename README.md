@@ -8,7 +8,7 @@ Add the script executable to your DW/WM Autostart.
 
 PREVIEW:
 
-![Alt text](https://i.ibb.co/rbKLg9S/motivational-chan.png "Motivational-Chan")
+![Alt text](https://i.postimg.cc/mgNzHDgJ/motivational-chan.png "Motivational-Chan")
 
 
 PROJECT INFORMATION:
