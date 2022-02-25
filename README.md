@@ -1,4 +1,4 @@
-# motivationalChan
+# Motivational-Chan
 
 
 #### **INSTALLATION INSTRUCTIONS:**
@@ -6,6 +6,13 @@
 Download the script and files, place them in your desired location.
 
 Add the script executable to your DW/WM Autostart.
+
+
+Extra: 
+
+You may add more quotes to the motivational file. One quote per line for the script to work properly.
+
+You may edit the script to use another icon or to increase or decrease the time between notifications.
 
 
 
